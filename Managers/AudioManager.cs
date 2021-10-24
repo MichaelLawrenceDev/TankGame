@@ -5,7 +5,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-// Reference: https://www.youtube.com/watch?v=QL29aTa7J5Q
+// Inspired by Code Monkey:
+// https://www.youtube.com/watch?v=QL29aTa7J5Q
 
 public enum Sound
 {
