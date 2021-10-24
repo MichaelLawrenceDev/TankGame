@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Code Monkey
+// Inspired by Code Monkey
 
 public class GameAssets : MonoBehaviour
 {
