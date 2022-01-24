@@ -1,4 +1,4 @@
-# The Tank Game
+# The Tank Game (Personal Project)
 
 NOTE:
 What is attached to github is scripts that I have coded that are apart of the tank game, these scripts will not work without the unity project file.
